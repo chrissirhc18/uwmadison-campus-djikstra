@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
  * This class serves as a frontend implementation, that provides HTML for dealing with input from a
  * user and feeding that input to a backend implementation to compute user's questions
  * 
- * @author Jason Schwartz
+ * @author Christian Mendoza
  */
 public class Frontend implements FrontendInterface {
 
