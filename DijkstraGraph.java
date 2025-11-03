@@ -1,9 +1,5 @@
 // Name: <Christian Mendoza>
 // Email: <camendoza@wisc.edu>
-// Group and Team: <your group name: two letters, and team color>
-// Group TA: <name of your group's ta>
-// Lecturer: <Florian>
-// Notes to Grader: <optional extra notes>
 
 import java.util.PriorityQueue;
 import org.junit.jupiter.api.Test;
@@ -180,7 +176,7 @@ public class DijkstraGraph<NodeType, EdgeType extends Number>
      * @return the cost of the shortest path between these nodes
      */
     public double shortestPathCost(NodeType start, NodeType end) {
-        // implement in step 5.4
+        // implement in step 6.7 HAHAH 67 
         return computeShortestPath(start, end).cost;
     }
 }
