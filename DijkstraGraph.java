@@ -1,4 +1,3 @@
-// === CS400 File Header Information ===
 // Name: <Christian Mendoza>
 // Email: <camendoza@wisc.edu>
 // Group and Team: <your group name: two letters, and team color>
